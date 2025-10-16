@@ -40,8 +40,8 @@ Here are some ideas to get you started:-->
  <img src="https://camo.githubusercontent.com/df07f298a64d71375aae02837f92cc541226513e9ccc563c099197c62e915b23/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f646a616e676f2d6c6f676f2e706e67" alt="dj" width="50" height="50"/></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitapaul-star&show_icons=true&locale=en&layout=compact" alt="ankitapaul-star" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PAKHI2801&show_icons=true&locale=en&layout=compact" alt="PAKHI2801" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitapaul-star&show_icons=true&locale=en" alt="ankitapaul-star" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PAKHI2801&show_icons=true&locale=en" alt="PAKHI2801" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitapaul-star&" alt="ankitapaul-star" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PAKHI2801&" alt="PAKHI2801" /></p>
