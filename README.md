@@ -4,7 +4,7 @@
 **PAKHI2801/PAKHI2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile-
 
 Here are some ideas to get you started:-->
-<p align="center"><img src="https://github.com/PAKHI2801/PAKHI2801/blob/main/git_img.jpg" width="1500" height="1500"/></p>
+<p align="center"><img src="https://github.com/PAKHI2801/PAKHI2801/blob/main/git_img.jpg" width="3000" height="3000"/></p>
 <h1 align="center">Hi 👋, I'm Ankita Paul</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
