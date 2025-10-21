@@ -45,3 +45,13 @@ Here are some ideas to get you started:-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PAKHI2801&show_icons=true&locale=en" alt="PAKHI2801" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PAKHI2801&" alt="PAKHI2801" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PAKHI2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/PAKHI2801?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
+</p>
+<h3>📈 Contribution Activity</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAKHI2801&bg_color=ffffff&color=0000ff&line=0e75b6&point=1e90ff&area=true&hide_border=true" alt="Ankita Paul's GitHub Activity Graph" />
+</p>
+
