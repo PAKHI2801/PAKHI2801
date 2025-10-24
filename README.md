@@ -52,6 +52,6 @@ Here are some ideas to get you started:-->
 </p>
 <h3>📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAKHI2801&bg_color=ffffff&color=0000ff&line=0e75b6&point=1e90ff&area=true&hide_border=true" alt="Ankita Paul's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAKHI2801&bg_color=000&color=E0F2FE&line=0e75b6&point=1e90ff&area=true&hide_border=true" alt="Ankita Paul's GitHub Activity Graph" />
 </p>
 
