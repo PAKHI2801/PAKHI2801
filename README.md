@@ -40,18 +40,18 @@ Here are some ideas to get you started:-->
  <img src="https://camo.githubusercontent.com/df07f298a64d71375aae02837f92cc541226513e9ccc563c099197c62e915b23/68747470733a2f2f6272616e64736c6f676f732e636f6d2f77702d636f6e74656e742f75706c6f6164732f696d616765732f6c617267652f646a616e676f2d6c6f676f2e706e67" alt="dj" width="50" height="50"/></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PAKHI2801&show_icons=true&locale=en&layout=compact" alt="PAKHI2801" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ankita-2801&show_icons=true&locale=en&layout=compact" alt="PAKHI2801" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PAKHI2801&show_icons=true&locale=en" alt="PAKHI2801" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankita-2801&show_icons=true&locale=en" alt="PAKHI2801" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PAKHI2801&" alt="PAKHI2801" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2801&" alt="PAKHI2801" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PAKHI2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/PAKHI2801?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Ankita-2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Ankita-2801?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
 </p>
 <h3>📈 Contribution Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PAKHI2801&bg_color=000&color=E0F2FE&line=0e75b6&point=1e90ff&area=true&hide_border=true" alt="Ankita Paul's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankita-2801&bg_color=000&color=E0F2FE&line=0e75b6&point=1e90ff&area=true&hide_border=true" alt="Ankita Paul's GitHub Activity Graph" />
 </p>
 
