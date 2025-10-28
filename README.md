@@ -44,7 +44,7 @@ Here are some ideas to get you started:-->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankita-2801&show_icons=true&locale=en" alt="PAKHI2801" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2801&" alt="PAKHI2801" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankita-2801&" alt="Ankita-2801" /></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ankita-2801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
